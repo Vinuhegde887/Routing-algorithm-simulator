@@ -231,7 +231,7 @@ This project is licensed under the **MIT License** – use, modify, and distribu
 
 **Built with ❤️ for education, exploration, and innovation.**
 
-***🧑‍💻 Developed By
+##🧑‍💻 Developed By
 Vinayak Hegde
 Routing Algorithm Simulator https://github.com/Vinuhegde887/Routing-algorithm-simulator/
 
